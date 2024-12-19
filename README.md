@@ -42,3 +42,9 @@ Conceptual Overview: A detailed explanation of the topic.
 Code Examples: Python code that demonstrates the concepts discussed.
 Practical Applications: Real-world scenarios where the topic can be applied.
 You can find the lecture notes in the notes/ directory. The notes are named according to the topics, such as:
+/notes
+  ├── 01-python-basics.md
+  ├── 02-data-structures.md
+  ├── 03-object-oriented-programming.md
+  └── 04-algorithms.md
+
