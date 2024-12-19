@@ -63,6 +63,3 @@ You can find the lecture notes in the `notes/` directory. The notes are named ac
 
 ---
 
-When you copy this plain text version and paste it into a Markdown file (`README.md`), it should maintain the proper formatting, such as bullet points, headers, and code blocks.
-
-If you still face issues, let me know and I can guide you through the process of ensuring the correct formatting!
