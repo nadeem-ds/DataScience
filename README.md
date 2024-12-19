@@ -1,4 +1,3 @@
-It seems like you're encountering an issue when copying and pasting the content into your README file, possibly due to incorrect formatting (such as Markdown or special characters not being rendered correctly). Below is the text in **plain text format**, which should solve this problem when copied into your README file.
 
 ---
 
